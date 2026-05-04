@@ -34,9 +34,8 @@ Using the `pygame` library and network sockets, the script reads analog stick an
 
 ## 🤝 Acknowledgements
 * **NC State University:** Developed as part of ECE 306 (Introduction to Embedded Systems).
-* **AI Pair-Programming:** Leveraged Google's Gemini as a senior pair-programmer for bouncing off logic structures, untangling Mac-specific Bluetooth driver issues, and debugging complex serial buffer overwrites.
 
 ## 👨‍💻 About the Author
 **Ezana**
 * B.S. Electrical and Computer Engineering @ NC State University (Class of 2028)
-* Incoming Controls Engineering Intern @ Corning Incorporated (Summer 2026)
+
